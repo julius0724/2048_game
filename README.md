@@ -12,7 +12,7 @@
 
 ### Live Demo
 
-[**Play online**](https://github.com/julius0724/2048_game.git)
+[**Play online**](https://julius0724.github.io/2048_game)
 
 ### How to Set Up the Project Locally:
 
